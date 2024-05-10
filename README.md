@@ -1,2 +1,2 @@
 # Nightingale_Presets
-My Presets in FFXIV.
+My ReShade/GShade Presets in FFXIV.
